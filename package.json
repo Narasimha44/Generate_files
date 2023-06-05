@@ -1,0 +1,14 @@
+{
+    "name": "Line_Command",
+    "version": "1.0.0",
+    "description": "A script to generate folders and files in react inside src folder with boilerplate code",
+    "main": "lib/Generate.js",
+    "bin": {
+      "generate-script": "lib/Generate.js"
+    },
+    "scripts": {
+      "test": "echo \"No tests specified\" && exit 0"
+    },
+    "author": "Lakshmi Narasimha",
+    "license": "IIT Kharagpur"
+}
